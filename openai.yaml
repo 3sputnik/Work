@@ -1,0 +1,4 @@
+interface:
+  display_name: "华泰智研skill"
+  short_description: "按华泰智研官网功能与 UI 规范设计 SkillHub 页面"
+  default_prompt: "Use $huatai-zhiyan-skill to design a 华泰智研 page that follows the approved product and UI system."
